@@ -35,10 +35,10 @@
 <p align="left">
 <h3 align="left">Social Links:</h3>
 
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shahmarmik/" target="blank">
+<a href="https://www.linkedin.com/in/shahmarmik/" target="blank">
      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shahmarmik/" height="30" width="40" />
 </a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/marmikshah?hr_r=1" target="blank">
+<a href="https://www.hackerrank.com/marmikshah?hr_r=1" target="blank">
    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/marmikshah?hr_r=1" height="30" width="40" />
 </a>
 </p>
