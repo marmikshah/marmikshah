@@ -27,8 +27,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Gstreamer-logo.svg" height=40> 
   </a> 
 </p>
-
-   ![snake gif](https://github.com/marmikshah/marmikshah/blob/output/github-contribution-grid-snake.gif)
   
 </div>
 <br>
