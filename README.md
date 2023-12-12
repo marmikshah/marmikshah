@@ -6,7 +6,7 @@
 
 ---
 
-## 📌 Quick Facts
+## ✨ About Me
 - 💼 Senior Computer Vision Engineer @ [Sebit](https://sebit.world)
 - 🎓 M.Sc. Info Tech & B.Sc. Info Tech
 - 🤖 Deep Learning | 🖼️ Computer Vision | 🎛️ MLOps
