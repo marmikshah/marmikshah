@@ -1,4 +1,4 @@
-# Hey there! I'm Marmik Shah! 👨‍💻🚀
+# Hello 👋! I'm Marmik Shah! 👨‍💻🚀
 
 <p align="center"> 
    <img src=".images/header.png" alt="Header Image">
