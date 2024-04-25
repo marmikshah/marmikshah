@@ -7,15 +7,14 @@
 ---
 
 ## ✨ About Me
-- 💼 Previously worked as Senior Computer Vision Engineer @ [Sebit](https://sebit.world)
-- 💼 Former Machine Learning Engineer @ [EMOS](https://emos.ai)
-- 🎓 M.Sc. Info Tech & B.Sc. Info Tech
-- 🤖 Deep Learning | 🖼️ Computer Vision | 🎛️ MLOps
-- 🌐 Exploring Generative AI & Reinforcement Learning.
+- 🔨 Currently developing [Chess](https://github.com/marmikshah/chess), a playground to test your own Chess Engines.
+- 💼 Previously served as Senior Computer Vision Engineer at [Sebit](https://sebit.world), where I specialized in hardware accelerated video inferencing pipelines.
+- 💼 Former Machine Learning Engineer at [EMOS](https://emos.ai), focusing on understanding and classifying human emotions from various multimedia.
+- 🎓 M.Sc. in Information Technology from The Hong Kong University of Science and Technology.
 
 ## My Projects
-- [Artium](https://apps.apple.com/us/app/artium/id1470388292): Fast Neural Style Transfer on-device. 
-- [Speed Master](https://apps.apple.com/us/app/speed-master-typing-test/id1037575794) Simple typing speed test app. (Stopped support since 2019)
+- 📱[Artium](https://apps.apple.com/us/app/artium/id1470388292): Fast Neural Style Transfer on-device. 
+- 📱[Speed Master](https://apps.apple.com/us/app/speed-master-typing-test/id1037575794) Simple typing speed test app. (Stopped support since 2019)
 
 ## Tech Stack
 
