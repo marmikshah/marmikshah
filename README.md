@@ -7,7 +7,8 @@
 ---
 
 ## ✨ About Me
-- 🔨 Currently developing [Chess](https://github.com/marmikshah/chess), a playground to test your own Chess Engines.
+- 🔨 Current on-going projects [Chess](https://github.com/marmikshah/chess) & [Todo](https://github.com/marmikshah/todo)
+- 💼 Senior Software Engineer @ Protiviti, working with Standard Chartered on Core Banking domain.
 - 💼 Previously served as Senior Computer Vision Engineer at [Sebit](https://sebit.world), where I specialized in hardware accelerated video inferencing pipelines.
 - 💼 Former Machine Learning Engineer at [EMOS](https://emos.ai), focusing on understanding and classifying human emotions from various multimedia.
 - 🎓 M.Sc. in Information Technology from The Hong Kong University of Science and Technology.
