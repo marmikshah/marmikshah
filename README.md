@@ -7,7 +7,7 @@
 ---
 
 ## ✨ About Me
-- 🔨 Current on-going projects [Rusty Vision](https://github.com/marmikshah/rusty-vision)
+- 🔨 Devoting my free time to [Rusty Vision](https://github.com/marmikshah/rusty-vision)
 - 💼 Senior Software Engineer @ Protiviti, working with Standard Chartered on Core Banking domain.
 - 💼 Previously served as Senior Computer Vision Engineer at [Sebit](https://sebit.world), where I specialized in hardware accelerated video inferencing pipelines.
 - 💼 Former Machine Learning Engineer at [EMOS](https://emos.ai), focusing on understanding and classifying human emotions from various multimedia.
