@@ -14,6 +14,7 @@
 - 🎓 M.Sc. in Information Technology from The Hong Kong University of Science and Technology.
 
 ## My Projects
+- 🌐 [My Task Optimizer](https://mytaskoptimizer.com): A tool to help prioritize tasks if you're confused.
 - 📱[Orbital Dodge](https://apps.apple.com/kh/app/orbital-dodge/id6740900205): A simple game written using [Bevy Engine](https://bevyengine.org)
 - 📱[Artium](https://apps.apple.com/us/app/artium/id1470388292): Fast Neural Style Transfer on-device. 
 - 📱[Speed Master](https://apps.apple.com/us/app/speed-master-typing-test/id1037575794) Simple typing speed test app. (Stopped support since 2019)
